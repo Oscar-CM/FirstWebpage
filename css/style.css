@@ -8,6 +8,8 @@ h2{
   color:green;
   font-style: italic;
   text-align: center;
+  font-size: 13;
+  font-weight: 300;
 }
 p {
   font-family: sans-serif;
@@ -17,5 +19,11 @@ ul {
   color: pink;
 }
 body{
-  background-color: yellow;
+  background-color: grey;
+}
+strong{
+  font-style: italic;
+}
+em{
+  font-weight: bold;
 }
